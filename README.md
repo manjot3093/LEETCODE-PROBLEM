@@ -1,29 +1,30 @@
 # 📊 LeetCode Progress
 
-**Total Solved:** 0
+**Total Solved:** 1
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 0 |
+| 🟢 Easy | 1 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 
 ## Topics
 | Topic | Solved |
 |---|---|
-| _none yet_ | |
+| Binary Search | 1 |
+| Math | 1 |
 
 ## Languages
 | Language | Solved |
 |---|---|
-| _none yet_ | |
+| cpp | 1 |
 
 ## Recent Problems
 | Problem | Difficulty | Language | Date |
 |---|---|---|---|
-| _none yet_ | | | |
+| [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | cpp | 2026-07-27 11:32:58 UTC |
 
-_Last updated: never_
+_Last updated: 2026-07-27 11:32:58 UTC_
 
 ---
 *This file is automatically maintained by [LeetCode AutoSync](.).*
