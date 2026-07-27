@@ -1,12 +1,34 @@
 {
-  "totalSolved": 0,
-  "easy": 0,
+  "totalSolved": 1,
+  "easy": 1,
   "medium": 0,
   "hard": 0,
-  "languages": {},
-  "topics": {},
-  "recent": [],
-  "solvedProblems": {},
-  "dailyCounts": {},
-  "lastUpdated": null
+  "languages": {
+    "cpp": 1
+  },
+  "topics": {
+    "Binary Search": 1,
+    "Math": 1
+  },
+  "recent": [
+    {
+      "difficulty": "Easy",
+      "language": "cpp",
+      "solvedAt": 1785151978955,
+      "title": "Sqrt(x)",
+      "titleSlug": "sqrtx",
+      "url": "https://leetcode.com/problems/sqrtx/"
+    }
+  ],
+  "solvedProblems": {
+    "sqrtx": {
+      "codeHash": "24b5847ef26502c58cf351ab16074ec3185fe5b1b96c9cf08f6ff9b808b9fb5c",
+      "difficulty": "Easy",
+      "solvedAt": 1785151978955
+    }
+  },
+  "dailyCounts": {
+    "2026-07-27": 1
+  },
+  "lastUpdated": 1785151978955
 }
