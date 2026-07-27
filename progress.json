@@ -1,16 +1,26 @@
 {
-  "totalSolved": 1,
-  "easy": 1,
+  "totalSolved": 2,
+  "easy": 2,
   "medium": 0,
   "hard": 0,
   "languages": {
-    "cpp": 1
+    "cpp": 2
   },
   "topics": {
+    "Array": 1,
     "Binary Search": 1,
+    "Hash Table": 1,
     "Math": 1
   },
   "recent": [
+    {
+      "difficulty": "Easy",
+      "language": "cpp",
+      "solvedAt": 1785152066565,
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "url": "https://leetcode.com/problems/two-sum/"
+    },
     {
       "difficulty": "Easy",
       "language": "cpp",
@@ -25,10 +35,15 @@
       "codeHash": "24b5847ef26502c58cf351ab16074ec3185fe5b1b96c9cf08f6ff9b808b9fb5c",
       "difficulty": "Easy",
       "solvedAt": 1785151978955
+    },
+    "two-sum": {
+      "codeHash": "0716031f7f86be2e23c7fb5112fad426371f62630bf68f1e656ddf814ea8b05d",
+      "difficulty": "Easy",
+      "solvedAt": 1785152066565
     }
   },
   "dailyCounts": {
-    "2026-07-27": 1
+    "2026-07-27": 2
   },
-  "lastUpdated": 1785151978955
+  "lastUpdated": 1785152066565
 }
