@@ -1,18 +1,28 @@
 {
-  "totalSolved": 2,
+  "totalSolved": 3,
   "easy": 2,
-  "medium": 0,
+  "medium": 1,
   "hard": 0,
   "languages": {
-    "cpp": 2
+    "cpp": 3
   },
   "topics": {
     "Array": 1,
     "Binary Search": 1,
-    "Hash Table": 1,
-    "Math": 1
+    "Hash Table": 2,
+    "Math": 1,
+    "Sliding Window": 1,
+    "String": 1
   },
   "recent": [
+    {
+      "difficulty": "Medium",
+      "language": "cpp",
+      "solvedAt": 1785152397781,
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
     {
       "difficulty": "Easy",
       "language": "cpp",
@@ -31,6 +41,11 @@
     }
   ],
   "solvedProblems": {
+    "longest-substring-without-repeating-characters": {
+      "codeHash": "385c21c99eb8273bf70cc6e5cd08ae95d2432b8efd73d6c88df58fd4034d04b6",
+      "difficulty": "Medium",
+      "solvedAt": 1785152397781
+    },
     "sqrtx": {
       "codeHash": "24b5847ef26502c58cf351ab16074ec3185fe5b1b96c9cf08f6ff9b808b9fb5c",
       "difficulty": "Easy",
@@ -43,7 +58,7 @@
     }
   },
   "dailyCounts": {
-    "2026-07-27": 2
+    "2026-07-27": 3
   },
-  "lastUpdated": 1785152066565
+  "lastUpdated": 1785152397781
 }
