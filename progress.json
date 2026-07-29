@@ -1,20 +1,30 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "easy": 2,
-  "medium": 1,
+  "medium": 2,
   "hard": 0,
   "languages": {
-    "cpp": 3
+    "cpp": 4
   },
   "topics": {
     "Array": 1,
     "Binary Search": 1,
     "Hash Table": 2,
+    "Linked List": 1,
     "Math": 1,
+    "Recursion": 1,
     "Sliding Window": 1,
     "String": 1
   },
   "recent": [
+    {
+      "difficulty": "Medium",
+      "language": "cpp",
+      "solvedAt": 1785239234978,
+      "title": "Swap Nodes in Pairs",
+      "titleSlug": "swap-nodes-in-pairs",
+      "url": "https://leetcode.com/problems/swap-nodes-in-pairs/"
+    },
     {
       "difficulty": "Medium",
       "language": "cpp",
@@ -51,6 +61,11 @@
       "difficulty": "Easy",
       "solvedAt": 1785151978955
     },
+    "swap-nodes-in-pairs": {
+      "codeHash": "a09a8a99d1da51b18bdc7f6b4f78a28453d48227431199e1c319fca2c1cb0da8",
+      "difficulty": "Medium",
+      "solvedAt": 1785239234978
+    },
     "two-sum": {
       "codeHash": "0716031f7f86be2e23c7fb5112fad426371f62630bf68f1e656ddf814ea8b05d",
       "difficulty": "Easy",
@@ -58,7 +73,8 @@
     }
   },
   "dailyCounts": {
-    "2026-07-27": 3
+    "2026-07-27": 3,
+    "2026-07-28": 1
   },
-  "lastUpdated": 1785152397781
+  "lastUpdated": 1785239234978
 }
