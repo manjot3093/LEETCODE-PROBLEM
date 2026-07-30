@@ -1,10 +1,10 @@
 {
-  "totalSolved": 6,
-  "easy": 3,
+  "totalSolved": 7,
+  "easy": 4,
   "medium": 3,
   "hard": 0,
   "languages": {
-    "cpp": 6
+    "cpp": 7
   },
   "topics": {
     "Array": 1,
@@ -14,12 +14,21 @@
     "Greedy": 1,
     "Hash Table": 2,
     "Linked List": 1,
-    "Math": 2,
+    "Math": 3,
     "Recursion": 1,
     "Sliding Window": 1,
+    "Sorting": 1,
     "String": 3
   },
   "recent": [
+    {
+      "difficulty": "Easy",
+      "language": "cpp",
+      "solvedAt": 1785432318752,
+      "title": "Maximum Product of Two Digits",
+      "titleSlug": "maximum-product-of-two-digits",
+      "url": "https://leetcode.com/problems/maximum-product-of-two-digits/"
+    },
     {
       "difficulty": "Easy",
       "language": "cpp",
@@ -80,6 +89,11 @@
       "difficulty": "Medium",
       "solvedAt": 1785152397781
     },
+    "maximum-product-of-two-digits": {
+      "codeHash": "e166e451219adaccc0ac1aad9dbfd6195976a3e6fc57afa56de3b2c051f3a737",
+      "difficulty": "Easy",
+      "solvedAt": 1785432318752
+    },
     "minimum-number-of-pushes-to-type-word-i": {
       "codeHash": "8cecb398d4863a71c347597d31f23eeeb39d548ed3eca0458675c73c3b0f3b1f",
       "difficulty": "Easy",
@@ -105,7 +119,7 @@
     "2026-07-27": 3,
     "2026-07-28": 1,
     "2026-07-29": 1,
-    "2026-07-30": 1
+    "2026-07-30": 2
   },
-  "lastUpdated": 1785430545637
+  "lastUpdated": 1785432318752
 }
