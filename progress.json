@@ -1,22 +1,32 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "easy": 2,
-  "medium": 2,
+  "medium": 3,
   "hard": 0,
   "languages": {
-    "cpp": 4
+    "cpp": 5
   },
   "topics": {
     "Array": 1,
+    "Backtracking": 1,
     "Binary Search": 1,
+    "Dynamic Programming": 1,
     "Hash Table": 2,
     "Linked List": 1,
     "Math": 1,
     "Recursion": 1,
     "Sliding Window": 1,
-    "String": 1
+    "String": 2
   },
   "recent": [
+    {
+      "difficulty": "Medium",
+      "language": "cpp",
+      "solvedAt": 1785343238478,
+      "title": "Generate Parentheses",
+      "titleSlug": "generate-parentheses",
+      "url": "https://leetcode.com/problems/generate-parentheses/"
+    },
     {
       "difficulty": "Medium",
       "language": "cpp",
@@ -51,6 +61,11 @@
     }
   ],
   "solvedProblems": {
+    "generate-parentheses": {
+      "codeHash": "06cd6c24b0c27b54d726e11ab8e7d9ee6f5ac1f659278363e3c2c1d9cc167c08",
+      "difficulty": "Medium",
+      "solvedAt": 1785343238478
+    },
     "longest-substring-without-repeating-characters": {
       "codeHash": "385c21c99eb8273bf70cc6e5cd08ae95d2432b8efd73d6c88df58fd4034d04b6",
       "difficulty": "Medium",
@@ -74,7 +89,8 @@
   },
   "dailyCounts": {
     "2026-07-27": 3,
-    "2026-07-28": 1
+    "2026-07-28": 1,
+    "2026-07-29": 1
   },
-  "lastUpdated": 1785239234978
+  "lastUpdated": 1785343238478
 }
