@@ -24,6 +24,14 @@
     {
       "difficulty": "Easy",
       "language": "cpp",
+      "solvedAt": 1785432497061,
+      "title": "Maximum Product of Two Digits",
+      "titleSlug": "maximum-product-of-two-digits",
+      "url": "https://leetcode.com/problems/maximum-product-of-two-digits/"
+    },
+    {
+      "difficulty": "Easy",
+      "language": "cpp",
       "solvedAt": 1785432318752,
       "title": "Maximum Product of Two Digits",
       "titleSlug": "maximum-product-of-two-digits",
@@ -90,9 +98,9 @@
       "solvedAt": 1785152397781
     },
     "maximum-product-of-two-digits": {
-      "codeHash": "e166e451219adaccc0ac1aad9dbfd6195976a3e6fc57afa56de3b2c051f3a737",
+      "codeHash": "afc1f783f68facdda3c00c746e857391051d148bc514bddf41b61502a0f1ea80",
       "difficulty": "Easy",
-      "solvedAt": 1785432318752
+      "solvedAt": 1785432497061
     },
     "minimum-number-of-pushes-to-type-word-i": {
       "codeHash": "8cecb398d4863a71c347597d31f23eeeb39d548ed3eca0458675c73c3b0f3b1f",
@@ -121,5 +129,5 @@
     "2026-07-29": 1,
     "2026-07-30": 2
   },
-  "lastUpdated": 1785432318752
+  "lastUpdated": 1785432497061
 }
