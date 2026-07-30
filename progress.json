@@ -1,24 +1,33 @@
 {
-  "totalSolved": 5,
-  "easy": 2,
+  "totalSolved": 6,
+  "easy": 3,
   "medium": 3,
   "hard": 0,
   "languages": {
-    "cpp": 5
+    "cpp": 6
   },
   "topics": {
     "Array": 1,
     "Backtracking": 1,
     "Binary Search": 1,
     "Dynamic Programming": 1,
+    "Greedy": 1,
     "Hash Table": 2,
     "Linked List": 1,
-    "Math": 1,
+    "Math": 2,
     "Recursion": 1,
     "Sliding Window": 1,
-    "String": 2
+    "String": 3
   },
   "recent": [
+    {
+      "difficulty": "Easy",
+      "language": "cpp",
+      "solvedAt": 1785430545637,
+      "title": "Minimum Number of Pushes to Type Word I",
+      "titleSlug": "minimum-number-of-pushes-to-type-word-i",
+      "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/"
+    },
     {
       "difficulty": "Medium",
       "language": "cpp",
@@ -71,6 +80,11 @@
       "difficulty": "Medium",
       "solvedAt": 1785152397781
     },
+    "minimum-number-of-pushes-to-type-word-i": {
+      "codeHash": "8cecb398d4863a71c347597d31f23eeeb39d548ed3eca0458675c73c3b0f3b1f",
+      "difficulty": "Easy",
+      "solvedAt": 1785430545637
+    },
     "sqrtx": {
       "codeHash": "24b5847ef26502c58cf351ab16074ec3185fe5b1b96c9cf08f6ff9b808b9fb5c",
       "difficulty": "Easy",
@@ -90,7 +104,8 @@
   "dailyCounts": {
     "2026-07-27": 3,
     "2026-07-28": 1,
-    "2026-07-29": 1
+    "2026-07-29": 1,
+    "2026-07-30": 1
   },
-  "lastUpdated": 1785343238478
+  "lastUpdated": 1785430545637
 }
