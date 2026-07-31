@@ -1,15 +1,17 @@
 {
-  "totalSolved": 7,
-  "easy": 4,
+  "totalSolved": 8,
+  "easy": 5,
   "medium": 3,
   "hard": 0,
   "languages": {
-    "cpp": 7
+    "cpp": 7,
+    "mysql": 1
   },
   "topics": {
     "Array": 1,
     "Backtracking": 1,
     "Binary Search": 1,
+    "Database": 1,
     "Dynamic Programming": 1,
     "Greedy": 1,
     "Hash Table": 2,
@@ -21,6 +23,14 @@
     "String": 3
   },
   "recent": [
+    {
+      "difficulty": "Easy",
+      "language": "mysql",
+      "solvedAt": 1785432876167,
+      "title": "Combine Two Tables",
+      "titleSlug": "combine-two-tables",
+      "url": "https://leetcode.com/problems/combine-two-tables/"
+    },
     {
       "difficulty": "Easy",
       "language": "cpp",
@@ -87,6 +97,11 @@
     }
   ],
   "solvedProblems": {
+    "combine-two-tables": {
+      "codeHash": "175c7754f412723cdeaf365e9482eff0bbd528bd0260d161cc7d20097e861da5",
+      "difficulty": "Easy",
+      "solvedAt": 1785432876167
+    },
     "generate-parentheses": {
       "codeHash": "06cd6c24b0c27b54d726e11ab8e7d9ee6f5ac1f659278363e3c2c1d9cc167c08",
       "difficulty": "Medium",
@@ -127,7 +142,7 @@
     "2026-07-27": 3,
     "2026-07-28": 1,
     "2026-07-29": 1,
-    "2026-07-30": 2
+    "2026-07-30": 3
   },
-  "lastUpdated": 1785432497061
+  "lastUpdated": 1785432876167
 }
