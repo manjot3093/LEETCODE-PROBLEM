@@ -1,16 +1,16 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "easy": 5,
-  "medium": 3,
+  "medium": 4,
   "hard": 0,
   "languages": {
-    "cpp": 7,
+    "cpp": 8,
     "mysql": 1
   },
   "topics": {
-    "Array": 1,
+    "Array": 2,
     "Backtracking": 1,
-    "Binary Search": 1,
+    "Binary Search": 2,
     "Database": 1,
     "Dynamic Programming": 1,
     "Greedy": 1,
@@ -23,6 +23,14 @@
     "String": 3
   },
   "recent": [
+    {
+      "difficulty": "Medium",
+      "language": "cpp",
+      "solvedAt": 1785474919702,
+      "title": "Search in Rotated Sorted Array II",
+      "titleSlug": "search-in-rotated-sorted-array-ii",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/"
+    },
     {
       "difficulty": "Easy",
       "language": "mysql",
@@ -122,6 +130,11 @@
       "difficulty": "Easy",
       "solvedAt": 1785430545637
     },
+    "search-in-rotated-sorted-array-ii": {
+      "codeHash": "cc7a3ddb8f2a98e64079ed16ba894b6a7bcdcac1b35590a3c750e384426b9f50",
+      "difficulty": "Medium",
+      "solvedAt": 1785474919702
+    },
     "sqrtx": {
       "codeHash": "24b5847ef26502c58cf351ab16074ec3185fe5b1b96c9cf08f6ff9b808b9fb5c",
       "difficulty": "Easy",
@@ -142,7 +155,8 @@
     "2026-07-27": 3,
     "2026-07-28": 1,
     "2026-07-29": 1,
-    "2026-07-30": 3
+    "2026-07-30": 3,
+    "2026-07-31": 1
   },
-  "lastUpdated": 1785432876167
+  "lastUpdated": 1785474919702
 }
