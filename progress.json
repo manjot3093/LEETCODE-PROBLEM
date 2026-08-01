@@ -1,10 +1,10 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "easy": 5,
-  "medium": 4,
+  "medium": 5,
   "hard": 0,
   "languages": {
-    "cpp": 8,
+    "cpp": 9,
     "mysql": 1
   },
   "topics": {
@@ -14,15 +14,23 @@
     "Database": 1,
     "Dynamic Programming": 1,
     "Greedy": 1,
-    "Hash Table": 2,
+    "Hash Table": 3,
     "Linked List": 1,
-    "Math": 3,
+    "Math": 4,
     "Recursion": 1,
     "Sliding Window": 1,
     "Sorting": 1,
-    "String": 3
+    "String": 4
   },
   "recent": [
+    {
+      "difficulty": "Medium",
+      "language": "cpp",
+      "solvedAt": 1785517431961,
+      "title": "Integer to Roman",
+      "titleSlug": "integer-to-roman",
+      "url": "https://leetcode.com/problems/integer-to-roman/"
+    },
     {
       "difficulty": "Medium",
       "language": "cpp",
@@ -115,6 +123,11 @@
       "difficulty": "Medium",
       "solvedAt": 1785343238478
     },
+    "integer-to-roman": {
+      "codeHash": "f1137bf79d0f9b2f61b1996b90d5e90a66ae0326b2c45655bf0f080ef76af48b",
+      "difficulty": "Medium",
+      "solvedAt": 1785517431961
+    },
     "longest-substring-without-repeating-characters": {
       "codeHash": "385c21c99eb8273bf70cc6e5cd08ae95d2432b8efd73d6c88df58fd4034d04b6",
       "difficulty": "Medium",
@@ -156,7 +169,7 @@
     "2026-07-28": 1,
     "2026-07-29": 1,
     "2026-07-30": 3,
-    "2026-07-31": 1
+    "2026-07-31": 2
   },
-  "lastUpdated": 1785474919702
+  "lastUpdated": 1785517431961
 }
