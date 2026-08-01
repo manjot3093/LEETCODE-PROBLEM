@@ -1,21 +1,21 @@
 # 📊 LeetCode Progress
 
-**Total Solved:** 9
+**Total Solved:** 10
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 5 |
-| 🟡 Medium | 4 |
+| 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
 
 ## Topics
 | Topic | Solved |
 |---|---|
-| Math | 3 |
-| String | 3 |
+| Math | 4 |
+| String | 4 |
+| Hash Table | 3 |
 | Array | 2 |
 | Binary Search | 2 |
-| Hash Table | 2 |
 | Backtracking | 1 |
 | Database | 1 |
 | Dynamic Programming | 1 |
@@ -28,12 +28,13 @@
 ## Languages
 | Language | Solved |
 |---|---|
-| cpp | 8 |
+| cpp | 9 |
 | mysql | 1 |
 
 ## Recent Problems
 | Problem | Difficulty | Language | Date |
 |---|---|---|---|
+| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | cpp | 2026-07-31 17:03:51 UTC |
 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | cpp | 2026-07-31 05:15:19 UTC |
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | mysql | 2026-07-30 17:34:36 UTC |
 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | cpp | 2026-07-30 17:28:17 UTC |
@@ -45,7 +46,7 @@
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | cpp | 2026-07-27 11:34:26 UTC |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | cpp | 2026-07-27 11:32:58 UTC |
 
-_Last updated: 2026-07-31 05:15:19 UTC_
+_Last updated: 2026-07-31 17:03:51 UTC_
 
 ---
 *This file is automatically maintained by [LeetCode AutoSync](.).*
