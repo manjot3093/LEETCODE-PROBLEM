@@ -1,16 +1,17 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "easy": 5,
   "medium": 5,
-  "hard": 0,
+  "hard": 1,
   "languages": {
-    "cpp": 9,
+    "cpp": 10,
     "mysql": 1
   },
   "topics": {
     "Array": 2,
-    "Backtracking": 1,
+    "Backtracking": 2,
     "Binary Search": 2,
+    "Breadth-First Search": 1,
     "Database": 1,
     "Dynamic Programming": 1,
     "Greedy": 1,
@@ -20,9 +21,17 @@
     "Recursion": 1,
     "Sliding Window": 1,
     "Sorting": 1,
-    "String": 4
+    "String": 5
   },
   "recent": [
+    {
+      "difficulty": "Hard",
+      "language": "cpp",
+      "solvedAt": 1785603011697,
+      "title": "Remove Invalid Parentheses",
+      "titleSlug": "remove-invalid-parentheses",
+      "url": "https://leetcode.com/problems/remove-invalid-parentheses/"
+    },
     {
       "difficulty": "Medium",
       "language": "cpp",
@@ -143,6 +152,11 @@
       "difficulty": "Easy",
       "solvedAt": 1785430545637
     },
+    "remove-invalid-parentheses": {
+      "codeHash": "385505a4a38f727a3ea0c5938fbcd131196adfb31a6381921bff8c27afe10ba5",
+      "difficulty": "Hard",
+      "solvedAt": 1785603011697
+    },
     "search-in-rotated-sorted-array-ii": {
       "codeHash": "cc7a3ddb8f2a98e64079ed16ba894b6a7bcdcac1b35590a3c750e384426b9f50",
       "difficulty": "Medium",
@@ -169,7 +183,8 @@
     "2026-07-28": 1,
     "2026-07-29": 1,
     "2026-07-30": 3,
-    "2026-07-31": 2
+    "2026-07-31": 2,
+    "2026-08-01": 1
   },
-  "lastUpdated": 1785517431961
+  "lastUpdated": 1785603011697
 }
