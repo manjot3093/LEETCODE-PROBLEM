@@ -1,22 +1,23 @@
 # 📊 LeetCode Progress
 
-**Total Solved:** 10
+**Total Solved:** 11
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 5 |
 | 🟡 Medium | 5 |
-| 🔴 Hard | 0 |
+| 🔴 Hard | 1 |
 
 ## Topics
 | Topic | Solved |
 |---|---|
+| String | 5 |
 | Math | 4 |
-| String | 4 |
 | Hash Table | 3 |
 | Array | 2 |
+| Backtracking | 2 |
 | Binary Search | 2 |
-| Backtracking | 1 |
+| Breadth-First Search | 1 |
 | Database | 1 |
 | Dynamic Programming | 1 |
 | Greedy | 1 |
@@ -28,12 +29,13 @@
 ## Languages
 | Language | Solved |
 |---|---|
-| cpp | 9 |
+| cpp | 10 |
 | mysql | 1 |
 
 ## Recent Problems
 | Problem | Difficulty | Language | Date |
 |---|---|---|---|
+| [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | cpp | 2026-08-01 16:50:11 UTC |
 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | cpp | 2026-07-31 17:03:51 UTC |
 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | cpp | 2026-07-31 05:15:19 UTC |
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | mysql | 2026-07-30 17:34:36 UTC |
@@ -46,7 +48,7 @@
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | cpp | 2026-07-27 11:34:26 UTC |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | cpp | 2026-07-27 11:32:58 UTC |
 
-_Last updated: 2026-07-31 17:03:51 UTC_
+_Last updated: 2026-08-01 16:50:11 UTC_
 
 ---
 *This file is automatically maintained by [LeetCode AutoSync](.).*
