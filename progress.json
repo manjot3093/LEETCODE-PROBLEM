@@ -1,18 +1,19 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "easy": 5,
   "medium": 5,
-  "hard": 1,
+  "hard": 2,
   "languages": {
-    "cpp": 10,
+    "cpp": 11,
     "mysql": 1
   },
   "topics": {
-    "Array": 2,
+    "Array": 3,
     "Backtracking": 2,
-    "Binary Search": 2,
+    "Binary Search": 3,
     "Breadth-First Search": 1,
     "Database": 1,
+    "Divide and Conquer": 1,
     "Dynamic Programming": 1,
     "Greedy": 1,
     "Hash Table": 3,
@@ -24,6 +25,14 @@
     "String": 5
   },
   "recent": [
+    {
+      "difficulty": "Hard",
+      "language": "cpp",
+      "solvedAt": 1785695326567,
+      "title": "Median of Two Sorted Arrays",
+      "titleSlug": "median-of-two-sorted-arrays",
+      "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
     {
       "difficulty": "Hard",
       "language": "cpp",
@@ -147,6 +156,11 @@
       "difficulty": "Easy",
       "solvedAt": 1785432497061
     },
+    "median-of-two-sorted-arrays": {
+      "codeHash": "fd27a98baab54ca300d07cc65ee4208d069e40a179816647b9a36e3aec4e766e",
+      "difficulty": "Hard",
+      "solvedAt": 1785695326567
+    },
     "minimum-number-of-pushes-to-type-word-i": {
       "codeHash": "8cecb398d4863a71c347597d31f23eeeb39d548ed3eca0458675c73c3b0f3b1f",
       "difficulty": "Easy",
@@ -184,7 +198,8 @@
     "2026-07-29": 1,
     "2026-07-30": 3,
     "2026-07-31": 2,
-    "2026-08-01": 1
+    "2026-08-01": 1,
+    "2026-08-02": 1
   },
-  "lastUpdated": 1785603011697
+  "lastUpdated": 1785695326567
 }
