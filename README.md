@@ -1,24 +1,25 @@
 # 📊 LeetCode Progress
 
-**Total Solved:** 11
+**Total Solved:** 12
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 5 |
 | 🟡 Medium | 5 |
-| 🔴 Hard | 1 |
+| 🔴 Hard | 2 |
 
 ## Topics
 | Topic | Solved |
 |---|---|
 | String | 5 |
 | Math | 4 |
+| Array | 3 |
+| Binary Search | 3 |
 | Hash Table | 3 |
-| Array | 2 |
 | Backtracking | 2 |
-| Binary Search | 2 |
 | Breadth-First Search | 1 |
 | Database | 1 |
+| Divide and Conquer | 1 |
 | Dynamic Programming | 1 |
 | Greedy | 1 |
 | Linked List | 1 |
@@ -29,12 +30,13 @@
 ## Languages
 | Language | Solved |
 |---|---|
-| cpp | 10 |
+| cpp | 11 |
 | mysql | 1 |
 
 ## Recent Problems
 | Problem | Difficulty | Language | Date |
 |---|---|---|---|
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | cpp | 2026-08-02 18:28:46 UTC |
 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | cpp | 2026-08-01 16:50:11 UTC |
 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | cpp | 2026-07-31 17:03:51 UTC |
 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | cpp | 2026-07-31 05:15:19 UTC |
@@ -48,7 +50,7 @@
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | cpp | 2026-07-27 11:34:26 UTC |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | cpp | 2026-07-27 11:32:58 UTC |
 
-_Last updated: 2026-08-01 16:50:11 UTC_
+_Last updated: 2026-08-02 18:28:46 UTC_
 
 ---
 *This file is automatically maintained by [LeetCode AutoSync](.).*
