@@ -1,20 +1,20 @@
 # 📊 LeetCode Progress
 
-**Total Solved:** 12
+**Total Solved:** 13
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 5 |
-| 🟡 Medium | 5 |
+| 🟡 Medium | 6 |
 | 🔴 Hard | 2 |
 
 ## Topics
 | Topic | Solved |
 |---|---|
 | String | 5 |
+| Array | 4 |
+| Binary Search | 4 |
 | Math | 4 |
-| Array | 3 |
-| Binary Search | 3 |
 | Hash Table | 3 |
 | Backtracking | 2 |
 | Breadth-First Search | 1 |
@@ -30,12 +30,13 @@
 ## Languages
 | Language | Solved |
 |---|---|
-| cpp | 11 |
+| cpp | 12 |
 | mysql | 1 |
 
 ## Recent Problems
 | Problem | Difficulty | Language | Date |
 |---|---|---|---|
+| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | cpp | 2026-08-03 14:06:24 UTC |
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | cpp | 2026-08-02 18:28:46 UTC |
 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | cpp | 2026-08-01 16:50:11 UTC |
 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | cpp | 2026-07-31 17:03:51 UTC |
@@ -50,7 +51,7 @@
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | cpp | 2026-07-27 11:34:26 UTC |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | cpp | 2026-07-27 11:32:58 UTC |
 
-_Last updated: 2026-08-02 18:28:46 UTC_
+_Last updated: 2026-08-03 14:06:24 UTC_
 
 ---
 *This file is automatically maintained by [LeetCode AutoSync](.).*
