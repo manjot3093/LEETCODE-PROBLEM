@@ -1,16 +1,16 @@
 {
-  "totalSolved": 12,
+  "totalSolved": 13,
   "easy": 5,
-  "medium": 5,
+  "medium": 6,
   "hard": 2,
   "languages": {
-    "cpp": 11,
+    "cpp": 12,
     "mysql": 1
   },
   "topics": {
-    "Array": 3,
+    "Array": 4,
     "Backtracking": 2,
-    "Binary Search": 3,
+    "Binary Search": 4,
     "Breadth-First Search": 1,
     "Database": 1,
     "Divide and Conquer": 1,
@@ -25,6 +25,14 @@
     "String": 5
   },
   "recent": [
+    {
+      "difficulty": "Medium",
+      "language": "cpp",
+      "solvedAt": 1785765984040,
+      "title": "Search in Rotated Sorted Array",
+      "titleSlug": "search-in-rotated-sorted-array",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
     {
       "difficulty": "Hard",
       "language": "cpp",
@@ -171,6 +179,11 @@
       "difficulty": "Hard",
       "solvedAt": 1785603011697
     },
+    "search-in-rotated-sorted-array": {
+      "codeHash": "7762ce462f793269075cc56df62d0a3587a51adc108c5146d3d943476578a5fc",
+      "difficulty": "Medium",
+      "solvedAt": 1785765984040
+    },
     "search-in-rotated-sorted-array-ii": {
       "codeHash": "cc7a3ddb8f2a98e64079ed16ba894b6a7bcdcac1b35590a3c750e384426b9f50",
       "difficulty": "Medium",
@@ -199,7 +212,8 @@
     "2026-07-30": 3,
     "2026-07-31": 2,
     "2026-08-01": 1,
-    "2026-08-02": 1
+    "2026-08-02": 1,
+    "2026-08-03": 1
   },
-  "lastUpdated": 1785695326567
+  "lastUpdated": 1785765984040
 }
