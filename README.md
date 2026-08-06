@@ -1,10 +1,10 @@
 # 📊 LeetCode Progress
 
-**Total Solved:** 13
+**Total Solved:** 14
 
 | Difficulty | Count |
 |---|---|
-| 🟢 Easy | 5 |
+| 🟢 Easy | 6 |
 | 🟡 Medium | 6 |
 | 🔴 Hard | 2 |
 
@@ -17,25 +17,26 @@
 | Math | 4 |
 | Hash Table | 3 |
 | Backtracking | 2 |
+| Linked List | 2 |
+| Recursion | 2 |
 | Breadth-First Search | 1 |
 | Database | 1 |
 | Divide and Conquer | 1 |
 | Dynamic Programming | 1 |
 | Greedy | 1 |
-| Linked List | 1 |
-| Recursion | 1 |
 | Sliding Window | 1 |
 | Sorting | 1 |
 
 ## Languages
 | Language | Solved |
 |---|---|
-| cpp | 12 |
+| cpp | 13 |
 | mysql | 1 |
 
 ## Recent Problems
 | Problem | Difficulty | Language | Date |
 |---|---|---|---|
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | cpp | 2026-08-04 15:23:00 UTC |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | cpp | 2026-08-03 14:06:24 UTC |
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | cpp | 2026-08-02 18:28:46 UTC |
 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | cpp | 2026-08-01 16:50:11 UTC |
@@ -51,7 +52,7 @@
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | cpp | 2026-07-27 11:34:26 UTC |
 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | cpp | 2026-07-27 11:32:58 UTC |
 
-_Last updated: 2026-08-03 14:06:24 UTC_
+_Last updated: 2026-08-04 15:23:00 UTC_
 
 ---
 *This file is automatically maintained by [LeetCode AutoSync](.).*
