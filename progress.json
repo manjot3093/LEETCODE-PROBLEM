@@ -1,10 +1,10 @@
 {
-  "totalSolved": 13,
-  "easy": 5,
+  "totalSolved": 14,
+  "easy": 6,
   "medium": 6,
   "hard": 2,
   "languages": {
-    "cpp": 12,
+    "cpp": 13,
     "mysql": 1
   },
   "topics": {
@@ -17,14 +17,22 @@
     "Dynamic Programming": 1,
     "Greedy": 1,
     "Hash Table": 3,
-    "Linked List": 1,
+    "Linked List": 2,
     "Math": 4,
-    "Recursion": 1,
+    "Recursion": 2,
     "Sliding Window": 1,
     "Sorting": 1,
     "String": 5
   },
   "recent": [
+    {
+      "difficulty": "Easy",
+      "language": "cpp",
+      "solvedAt": 1785856980653,
+      "title": "Merge Two Sorted Lists",
+      "titleSlug": "merge-two-sorted-lists",
+      "url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+    },
     {
       "difficulty": "Medium",
       "language": "cpp",
@@ -169,6 +177,11 @@
       "difficulty": "Hard",
       "solvedAt": 1785695326567
     },
+    "merge-two-sorted-lists": {
+      "codeHash": "7b3c39a47c2c895c218aaebaac5da967dd1e98b05708290ee132631782d97f7f",
+      "difficulty": "Easy",
+      "solvedAt": 1785856980653
+    },
     "minimum-number-of-pushes-to-type-word-i": {
       "codeHash": "8cecb398d4863a71c347597d31f23eeeb39d548ed3eca0458675c73c3b0f3b1f",
       "difficulty": "Easy",
@@ -213,7 +226,8 @@
     "2026-07-31": 2,
     "2026-08-01": 1,
     "2026-08-02": 1,
-    "2026-08-03": 1
+    "2026-08-03": 1,
+    "2026-08-04": 1
   },
-  "lastUpdated": 1785765984040
+  "lastUpdated": 1785856980653
 }
