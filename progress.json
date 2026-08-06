@@ -1,14 +1,14 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "easy": 6,
-  "medium": 6,
+  "medium": 7,
   "hard": 2,
   "languages": {
-    "cpp": 13,
+    "cpp": 14,
     "mysql": 1
   },
   "topics": {
-    "Array": 4,
+    "Array": 5,
     "Backtracking": 2,
     "Binary Search": 4,
     "Breadth-First Search": 1,
@@ -21,10 +21,19 @@
     "Math": 4,
     "Recursion": 2,
     "Sliding Window": 1,
-    "Sorting": 1,
-    "String": 5
+    "Sorting": 2,
+    "String": 5,
+    "Two Pointers": 1
   },
   "recent": [
+    {
+      "difficulty": "Medium",
+      "language": "cpp",
+      "solvedAt": 1786025211741,
+      "title": "4Sum",
+      "titleSlug": "4sum",
+      "url": "https://leetcode.com/problems/4sum/"
+    },
     {
       "difficulty": "Easy",
       "language": "cpp",
@@ -147,6 +156,11 @@
     }
   ],
   "solvedProblems": {
+    "4sum": {
+      "codeHash": "b62057d97eaa3b57b0a077ef2a036f80972fd5ef3e3c354d19693ec2b0d988b8",
+      "difficulty": "Medium",
+      "solvedAt": 1786025211741
+    },
     "combine-two-tables": {
       "codeHash": "175c7754f412723cdeaf365e9482eff0bbd528bd0260d161cc7d20097e861da5",
       "difficulty": "Easy",
@@ -227,7 +241,8 @@
     "2026-08-01": 1,
     "2026-08-02": 1,
     "2026-08-03": 1,
-    "2026-08-04": 1
+    "2026-08-04": 1,
+    "2026-08-06": 1
   },
-  "lastUpdated": 1785856980653
+  "lastUpdated": 1786025211741
 }
