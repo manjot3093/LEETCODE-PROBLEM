@@ -9,7 +9,7 @@
 - **Language:** cpp
 - **Runtime:** N/A
 - **Memory:** N/A
-- **Solved:** 2026-08-06 14:06:39 UTC
+- **Solved:** 2026-08-06 14:08:04 UTC
 
 ## Complexity
 - **Time Complexity:** _Not analyzed automatically — add your own notes here, or enable AI Explanation in Settings once it's configured._
