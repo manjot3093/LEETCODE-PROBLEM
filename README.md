@@ -37,6 +37,7 @@
 ## Recent Problems
 | Problem | Difficulty | Language | Date |
 |---|---|---|---|
+| [4Sum](https://leetcode.com/problems/4sum/) | Medium | cpp | 2026-08-06 14:08:19 UTC |
 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | cpp | 2026-08-06 14:06:51 UTC |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | cpp | 2026-08-04 15:23:00 UTC |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | cpp | 2026-08-03 14:06:24 UTC |
@@ -51,9 +52,8 @@
 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | cpp | 2026-07-29 16:40:38 UTC |
 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | cpp | 2026-07-28 11:47:14 UTC |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | cpp | 2026-07-27 11:39:57 UTC |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | cpp | 2026-07-27 11:34:26 UTC |
 
-_Last updated: 2026-08-06 14:06:51 UTC_
+_Last updated: 2026-08-06 14:08:19 UTC_
 
 ---
 *This file is automatically maintained by [LeetCode AutoSync](.).*
