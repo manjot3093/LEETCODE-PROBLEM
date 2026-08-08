@@ -1,20 +1,20 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "easy": 6,
-  "medium": 7,
+  "medium": 8,
   "hard": 2,
   "languages": {
-    "cpp": 14,
+    "cpp": 15,
     "mysql": 1
   },
   "topics": {
-    "Array": 5,
+    "Array": 6,
     "Backtracking": 2,
     "Binary Search": 4,
     "Breadth-First Search": 1,
     "Database": 1,
-    "Divide and Conquer": 1,
-    "Dynamic Programming": 1,
+    "Divide and Conquer": 2,
+    "Dynamic Programming": 2,
     "Greedy": 1,
     "Hash Table": 3,
     "Linked List": 2,
@@ -26,6 +26,14 @@
     "Two Pointers": 1
   },
   "recent": [
+    {
+      "difficulty": "Medium",
+      "language": "cpp",
+      "solvedAt": 1786110793267,
+      "title": "Maximum Subarray",
+      "titleSlug": "maximum-subarray",
+      "url": "https://leetcode.com/problems/maximum-subarray/"
+    },
     {
       "difficulty": "Medium",
       "language": "cpp",
@@ -194,6 +202,11 @@
       "difficulty": "Easy",
       "solvedAt": 1785432497061
     },
+    "maximum-subarray": {
+      "codeHash": "9264306e973fbdf7e15fff43b688d0735c1318fb16b1df77b0b5e9ab26e80a4c",
+      "difficulty": "Medium",
+      "solvedAt": 1786110793267
+    },
     "median-of-two-sorted-arrays": {
       "codeHash": "fd27a98baab54ca300d07cc65ee4208d069e40a179816647b9a36e3aec4e766e",
       "difficulty": "Hard",
@@ -250,7 +263,8 @@
     "2026-08-02": 1,
     "2026-08-03": 1,
     "2026-08-04": 1,
-    "2026-08-06": 1
+    "2026-08-06": 1,
+    "2026-08-07": 1
   },
-  "lastUpdated": 1786025299031
+  "lastUpdated": 1786110793267
 }
