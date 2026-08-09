@@ -1,10 +1,10 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "easy": 6,
   "medium": 8,
-  "hard": 2,
+  "hard": 3,
   "languages": {
-    "cpp": 15,
+    "cpp": 16,
     "mysql": 1
   },
   "topics": {
@@ -17,15 +17,23 @@
     "Dynamic Programming": 2,
     "Greedy": 1,
     "Hash Table": 3,
-    "Linked List": 2,
+    "Linked List": 3,
     "Math": 4,
-    "Recursion": 2,
+    "Recursion": 3,
     "Sliding Window": 1,
     "Sorting": 2,
     "String": 5,
     "Two Pointers": 1
   },
   "recent": [
+    {
+      "difficulty": "Hard",
+      "language": "cpp",
+      "solvedAt": 1786198607476,
+      "title": "Reverse Nodes in k-Group",
+      "titleSlug": "reverse-nodes-in-k-group",
+      "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+    },
     {
       "difficulty": "Medium",
       "language": "cpp",
@@ -227,6 +235,11 @@
       "difficulty": "Hard",
       "solvedAt": 1785603011697
     },
+    "reverse-nodes-in-k-group": {
+      "codeHash": "bbeea6789220d73b254833bc43265f505340a1c027ebea4630f0f28e6ab9fcf1",
+      "difficulty": "Hard",
+      "solvedAt": 1786198607476
+    },
     "search-in-rotated-sorted-array": {
       "codeHash": "7762ce462f793269075cc56df62d0a3587a51adc108c5146d3d943476578a5fc",
       "difficulty": "Medium",
@@ -264,7 +277,8 @@
     "2026-08-03": 1,
     "2026-08-04": 1,
     "2026-08-06": 1,
-    "2026-08-07": 1
+    "2026-08-07": 1,
+    "2026-08-08": 1
   },
-  "lastUpdated": 1786110793267
+  "lastUpdated": 1786198607476
 }
