@@ -1,12 +1,12 @@
 # 📊 LeetCode Progress
 
-**Total Solved:** 16
+**Total Solved:** 17
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 6 |
 | 🟡 Medium | 8 |
-| 🔴 Hard | 2 |
+| 🔴 Hard | 3 |
 
 ## Topics
 | Topic | Solved |
@@ -16,11 +16,11 @@
 | Binary Search | 4 |
 | Math | 4 |
 | Hash Table | 3 |
+| Linked List | 3 |
+| Recursion | 3 |
 | Backtracking | 2 |
 | Divide and Conquer | 2 |
 | Dynamic Programming | 2 |
-| Linked List | 2 |
-| Recursion | 2 |
 | Sorting | 2 |
 | Breadth-First Search | 1 |
 | Database | 1 |
@@ -31,12 +31,13 @@
 ## Languages
 | Language | Solved |
 |---|---|
-| cpp | 15 |
+| cpp | 16 |
 | mysql | 1 |
 
 ## Recent Problems
 | Problem | Difficulty | Language | Date |
 |---|---|---|---|
+| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | cpp | 2026-08-08 14:16:47 UTC |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | cpp | 2026-08-07 13:53:13 UTC |
 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | cpp | 2026-08-06 14:08:19 UTC |
 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | cpp | 2026-08-06 14:06:51 UTC |
@@ -51,9 +52,8 @@
 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | cpp | 2026-07-30 17:25:18 UTC |
 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | cpp | 2026-07-30 16:55:45 UTC |
 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | cpp | 2026-07-29 16:40:38 UTC |
-| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | cpp | 2026-07-28 11:47:14 UTC |
 
-_Last updated: 2026-08-07 13:53:13 UTC_
+_Last updated: 2026-08-08 14:16:47 UTC_
 
 ---
 *This file is automatically maintained by [LeetCode AutoSync](.).*
