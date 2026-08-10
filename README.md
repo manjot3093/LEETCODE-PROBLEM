@@ -1,42 +1,46 @@
 # 📊 LeetCode Progress
 
-**Total Solved:** 17
+**Total Solved:** 18
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 6 |
 | 🟡 Medium | 8 |
-| 🔴 Hard | 3 |
+| 🔴 Hard | 4 |
 
 ## Topics
 | Topic | Solved |
 |---|---|
-| Array | 6 |
+| Array | 7 |
 | String | 5 |
 | Binary Search | 4 |
+| Hash Table | 4 |
 | Math | 4 |
-| Hash Table | 3 |
+| Backtracking | 3 |
 | Linked List | 3 |
 | Recursion | 3 |
-| Backtracking | 2 |
 | Divide and Conquer | 2 |
 | Dynamic Programming | 2 |
 | Sorting | 2 |
+| Algorithm X | 1 |
 | Breadth-First Search | 1 |
+| Dancing Links | 1 |
 | Database | 1 |
 | Greedy | 1 |
+| Matrix | 1 |
 | Sliding Window | 1 |
 | Two Pointers | 1 |
 
 ## Languages
 | Language | Solved |
 |---|---|
-| cpp | 16 |
+| cpp | 17 |
 | mysql | 1 |
 
 ## Recent Problems
 | Problem | Difficulty | Language | Date |
 |---|---|---|---|
+| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | cpp | 2026-08-09 17:16:29 UTC |
 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | cpp | 2026-08-08 14:16:47 UTC |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | cpp | 2026-08-07 13:53:13 UTC |
 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | cpp | 2026-08-06 14:08:19 UTC |
@@ -51,9 +55,8 @@
 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | cpp | 2026-07-30 17:28:17 UTC |
 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | cpp | 2026-07-30 17:25:18 UTC |
 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | cpp | 2026-07-30 16:55:45 UTC |
-| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | cpp | 2026-07-29 16:40:38 UTC |
 
-_Last updated: 2026-08-08 14:16:47 UTC_
+_Last updated: 2026-08-09 17:16:29 UTC_
 
 ---
 *This file is automatically maintained by [LeetCode AutoSync](.).*
