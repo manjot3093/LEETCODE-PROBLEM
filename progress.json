@@ -1,24 +1,27 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "easy": 6,
   "medium": 8,
-  "hard": 3,
+  "hard": 4,
   "languages": {
-    "cpp": 16,
+    "cpp": 17,
     "mysql": 1
   },
   "topics": {
-    "Array": 6,
-    "Backtracking": 2,
+    "Algorithm X": 1,
+    "Array": 7,
+    "Backtracking": 3,
     "Binary Search": 4,
     "Breadth-First Search": 1,
+    "Dancing Links": 1,
     "Database": 1,
     "Divide and Conquer": 2,
     "Dynamic Programming": 2,
     "Greedy": 1,
-    "Hash Table": 3,
+    "Hash Table": 4,
     "Linked List": 3,
     "Math": 4,
+    "Matrix": 1,
     "Recursion": 3,
     "Sliding Window": 1,
     "Sorting": 2,
@@ -26,6 +29,14 @@
     "Two Pointers": 1
   },
   "recent": [
+    {
+      "difficulty": "Hard",
+      "language": "cpp",
+      "solvedAt": 1786295789472,
+      "title": "Sudoku Solver",
+      "titleSlug": "sudoku-solver",
+      "url": "https://leetcode.com/problems/sudoku-solver/"
+    },
     {
       "difficulty": "Hard",
       "language": "cpp",
@@ -255,6 +266,11 @@
       "difficulty": "Easy",
       "solvedAt": 1785151978955
     },
+    "sudoku-solver": {
+      "codeHash": "c466842109b02ca60ba7c071b7c7ddd0a6036229837cf376641b91d766a21132",
+      "difficulty": "Hard",
+      "solvedAt": 1786295789472
+    },
     "swap-nodes-in-pairs": {
       "codeHash": "a09a8a99d1da51b18bdc7f6b4f78a28453d48227431199e1c319fca2c1cb0da8",
       "difficulty": "Medium",
@@ -278,7 +294,8 @@
     "2026-08-04": 1,
     "2026-08-06": 1,
     "2026-08-07": 1,
-    "2026-08-08": 1
+    "2026-08-08": 1,
+    "2026-08-09": 1
   },
-  "lastUpdated": 1786198607476
+  "lastUpdated": 1786295789472
 }
