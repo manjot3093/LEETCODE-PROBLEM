@@ -1,10 +1,11 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "easy": 6,
-  "medium": 8,
+  "medium": 9,
   "hard": 4,
   "languages": {
     "cpp": 17,
+    "javascript": 1,
     "mysql": 1
   },
   "topics": {
@@ -29,6 +30,14 @@
     "Two Pointers": 1
   },
   "recent": [
+    {
+      "difficulty": "Medium",
+      "language": "javascript",
+      "solvedAt": 1786382541308,
+      "title": "Check if Object Instance of Class",
+      "titleSlug": "check-if-object-instance-of-class",
+      "url": "https://leetcode.com/problems/check-if-object-instance-of-class/"
+    },
     {
       "difficulty": "Hard",
       "language": "cpp",
@@ -180,14 +189,6 @@
       "title": "Two Sum",
       "titleSlug": "two-sum",
       "url": "https://leetcode.com/problems/two-sum/"
-    },
-    {
-      "difficulty": "Easy",
-      "language": "cpp",
-      "solvedAt": 1785151978955,
-      "title": "Sqrt(x)",
-      "titleSlug": "sqrtx",
-      "url": "https://leetcode.com/problems/sqrtx/"
     }
   ],
   "solvedProblems": {
@@ -195,6 +196,11 @@
       "codeHash": "656ef9a3d4f820cd15d4b2721c8cfca70feac34750694778466de245a5bc16c0",
       "difficulty": "Medium",
       "solvedAt": 1786025299031
+    },
+    "check-if-object-instance-of-class": {
+      "codeHash": "b673b8b151512ef2d647a67e4f50c1c5b787abc5def8a606a7c007b62d62101b",
+      "difficulty": "Medium",
+      "solvedAt": 1786382541308
     },
     "combine-two-tables": {
       "codeHash": "175c7754f412723cdeaf365e9482eff0bbd528bd0260d161cc7d20097e861da5",
@@ -295,7 +301,8 @@
     "2026-08-06": 1,
     "2026-08-07": 1,
     "2026-08-08": 1,
-    "2026-08-09": 1
+    "2026-08-09": 1,
+    "2026-08-10": 1
   },
-  "lastUpdated": 1786295789472
+  "lastUpdated": 1786382541308
 }
