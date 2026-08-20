@@ -1,11 +1,11 @@
 # 📊 LeetCode Progress
 
-**Total Solved:** 18
+**Total Solved:** 19
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 6 |
-| 🟡 Medium | 8 |
+| 🟡 Medium | 9 |
 | 🔴 Hard | 4 |
 
 ## Topics
@@ -35,11 +35,13 @@
 | Language | Solved |
 |---|---|
 | cpp | 17 |
+| javascript | 1 |
 | mysql | 1 |
 
 ## Recent Problems
 | Problem | Difficulty | Language | Date |
 |---|---|---|---|
+| [Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/) | Medium | javascript | 2026-08-10 17:22:21 UTC |
 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | cpp | 2026-08-09 17:16:29 UTC |
 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | cpp | 2026-08-08 14:16:47 UTC |
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | cpp | 2026-08-07 13:53:13 UTC |
@@ -54,9 +56,8 @@
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | mysql | 2026-07-30 17:34:36 UTC |
 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | cpp | 2026-07-30 17:28:17 UTC |
 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | cpp | 2026-07-30 17:25:18 UTC |
-| [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | Easy | cpp | 2026-07-30 16:55:45 UTC |
 
-_Last updated: 2026-08-09 17:16:29 UTC_
+_Last updated: 2026-08-10 17:22:21 UTC_
 
 ---
 *This file is automatically maintained by [LeetCode AutoSync](.).*
