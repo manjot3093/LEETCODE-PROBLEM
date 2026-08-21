@@ -1,21 +1,21 @@
 # 📊 LeetCode Progress
 
-**Total Solved:** 19
+**Total Solved:** 20
 
 | Difficulty | Count |
 |---|---|
 | 🟢 Easy | 6 |
-| 🟡 Medium | 9 |
+| 🟡 Medium | 10 |
 | 🔴 Hard | 4 |
 
 ## Topics
 | Topic | Solved |
 |---|---|
 | Array | 7 |
-| String | 5 |
+| String | 6 |
+| Math | 5 |
 | Binary Search | 4 |
 | Hash Table | 4 |
-| Math | 4 |
 | Backtracking | 3 |
 | Linked List | 3 |
 | Recursion | 3 |
@@ -28,19 +28,21 @@
 | Database | 1 |
 | Greedy | 1 |
 | Matrix | 1 |
+| Simulation | 1 |
 | Sliding Window | 1 |
 | Two Pointers | 1 |
 
 ## Languages
 | Language | Solved |
 |---|---|
-| cpp | 17 |
+| cpp | 18 |
 | javascript | 1 |
 | mysql | 1 |
 
 ## Recent Problems
 | Problem | Difficulty | Language | Date |
 |---|---|---|---|
+| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | cpp | 2026-08-20 14:58:16 UTC |
 | [Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/) | Medium | javascript | 2026-08-10 17:22:21 UTC |
 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | cpp | 2026-08-09 17:16:29 UTC |
 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | cpp | 2026-08-08 14:16:47 UTC |
@@ -55,9 +57,8 @@
 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | cpp | 2026-07-31 05:15:19 UTC |
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | mysql | 2026-07-30 17:34:36 UTC |
 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | cpp | 2026-07-30 17:28:17 UTC |
-| [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | Easy | cpp | 2026-07-30 17:25:18 UTC |
 
-_Last updated: 2026-08-10 17:22:21 UTC_
+_Last updated: 2026-08-20 14:58:16 UTC_
 
 ---
 *This file is automatically maintained by [LeetCode AutoSync](.).*
