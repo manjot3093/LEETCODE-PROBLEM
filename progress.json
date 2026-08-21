@@ -1,10 +1,10 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "easy": 6,
-  "medium": 9,
+  "medium": 10,
   "hard": 4,
   "languages": {
-    "cpp": 17,
+    "cpp": 18,
     "javascript": 1,
     "mysql": 1
   },
@@ -21,15 +21,24 @@
     "Greedy": 1,
     "Hash Table": 4,
     "Linked List": 3,
-    "Math": 4,
+    "Math": 5,
     "Matrix": 1,
     "Recursion": 3,
+    "Simulation": 1,
     "Sliding Window": 1,
     "Sorting": 2,
-    "String": 5,
+    "String": 6,
     "Two Pointers": 1
   },
   "recent": [
+    {
+      "difficulty": "Medium",
+      "language": "cpp",
+      "solvedAt": 1787237896624,
+      "title": "Multiply Strings",
+      "titleSlug": "multiply-strings",
+      "url": "https://leetcode.com/problems/multiply-strings/"
+    },
     {
       "difficulty": "Medium",
       "language": "javascript",
@@ -181,14 +190,6 @@
       "title": "Longest Substring Without Repeating Characters",
       "titleSlug": "longest-substring-without-repeating-characters",
       "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
-    },
-    {
-      "difficulty": "Easy",
-      "language": "cpp",
-      "solvedAt": 1785152066565,
-      "title": "Two Sum",
-      "titleSlug": "two-sum",
-      "url": "https://leetcode.com/problems/two-sum/"
     }
   ],
   "solvedProblems": {
@@ -247,6 +248,11 @@
       "difficulty": "Easy",
       "solvedAt": 1785430545637
     },
+    "multiply-strings": {
+      "codeHash": "2cb7bf12ed8cad5e9c548a35ca938d9cb7e54ff4316f64749e9f83c8e7146f4d",
+      "difficulty": "Medium",
+      "solvedAt": 1787237896624
+    },
     "remove-invalid-parentheses": {
       "codeHash": "385505a4a38f727a3ea0c5938fbcd131196adfb31a6381921bff8c27afe10ba5",
       "difficulty": "Hard",
@@ -302,7 +308,8 @@
     "2026-08-07": 1,
     "2026-08-08": 1,
     "2026-08-09": 1,
-    "2026-08-10": 1
+    "2026-08-10": 1,
+    "2026-08-20": 1
   },
-  "lastUpdated": 1786382541308
+  "lastUpdated": 1787237896624
 }
